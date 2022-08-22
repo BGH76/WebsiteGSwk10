@@ -1,1 +1,1 @@
-# bh-web-genspark.netlify.app
+# http://bh-web-genspark.netlify.app
