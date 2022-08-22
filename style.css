@@ -1,0 +1,44 @@
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* index.html page */
+.navbar-brand {
+    margin-left: .5rem;
+}
+.nav-pic-container {
+    padding: 0;
+}
+.nav-pic {
+    width: 100%;
+    overflow: hidden;
+}
+h1 {
+    text-align: center;
+    font-family: 'Tangerine', serif;
+    font-size: 13rem;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+/* about.html page */
+.about-h {
+    margin-left: 10%;
+    margin-top: 2.8rem;
+    font-size: 2.0rem;
+}
+.about {
+    margin-left: 10%;
+}
+
+/* photos.html page */
+.photo-spacing {
+    margin-top: 100px;
+}
+
+/* contact.html page */
+.contact {
+    margin: auto;
+    margin-top: 50px;
+    width: 30%;
+    text-align: center;
+}
